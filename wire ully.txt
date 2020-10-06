@@ -1,0 +1,12 @@
+troughput: = 7963538 / 741,228 = 10743,7226 bytes
+            1 bytes=8 bit
+           = 10743,7226 x 8 = 85.949,7808
+
+packet loss: = 27 - 2 = 25 x 100 / 27 = 92,5925926
+             = 100 - 92,5925926 = 7,407
+
+total delay: =605809035
+rata rata delay: =297110.8558
+
+total jitter: =605860596
+rata rata jitter: =297136.1432
